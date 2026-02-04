@@ -1,0 +1,25 @@
+{
+  "notifyMethod": "terminal-notifier",
+  "projects": {
+    "/Users/itoukoicha/Desktop/WORKDIR/ccfiles": {
+      "name": "CC Files",
+      "icon": "",
+      "groupId": "claude-ccfiles"
+    },
+    "/Users/itoukoicha/Desktop": {
+      "name": "Desktop作業",
+      "icon": "",
+      "groupId": "claude-desktop"
+    },
+    "/tmp": {
+      "name": "一時作業",
+      "icon": "",
+      "groupId": "claude-tmp"
+    }
+  },
+  "default": {
+    "name": "Claude Code",
+    "icon": "",
+    "groupId": "claude-default"
+  }
+}

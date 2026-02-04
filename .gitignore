@@ -1,0 +1,5 @@
+# セッション履歴（個人データ）
+extensions/last-sessions/
+
+# アイコンキャッシュ（自動生成）
+extensions/icons/cache/
